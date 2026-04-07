@@ -8,10 +8,10 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - IMAP
   - Email
-  - Protocol
+  - IMAP
   - Messaging
+  - Protocol
 url: >-
   https://raw.githubusercontent.com/api-evangelist/imap/refs/heads/main/apis.yml
 created: '2025-01-01'
