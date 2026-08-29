@@ -6,6 +6,17 @@ description: >-
   server. IMAP enables users to view and manage email from multiple devices
   while keeping messages synchronized on the server.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
