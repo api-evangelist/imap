@@ -1,4 +1,5 @@
 aid: imap
+x-type: concept
 name: IMAP
 description: >-
   IMAP (Internet Message Access Protocol) is a standard email protocol that
