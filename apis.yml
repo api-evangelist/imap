@@ -1,6 +1,7 @@
 aid: imap
 x-type: concept
 name: IMAP
+kind: topic
 description: >-
   IMAP (Internet Message Access Protocol) is a standard email protocol that
   allows email clients to access and manage email messages stored on a mail
